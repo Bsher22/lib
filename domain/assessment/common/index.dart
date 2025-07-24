@@ -1,0 +1,12 @@
+// lib/widgets/domain/assessment/common/index.dart
+export 'assessment_type_selector.dart';
+export 'assessment_setup_form.dart';
+export 'assessment_progress_header.dart';
+export 'assessment_results_display.dart';
+export 'category_performance_display.dart';
+export 'benchmark_display_widget.dart';
+export 'player_navigation_bar.dart';
+export 'results_visualization.dart';
+export 'test_results_table.dart';
+export 'training_plan_widget.dart';
+export 'position_selector.dart';
